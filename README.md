@@ -2,7 +2,7 @@
 
 These documents are related to research on the Humanities AI literacy framework.
 
-01_395_Papers.csv: Metadata for 395 papers
+01_395_Papers.csv: Metadata for 395 papers, Seaech keyword is "ai" + "literacy" in Web of Science (WoS). Apr. 22, 2025.
 
 02_41_Papers.csv: Metadata for 41 papers selected by the authors
 
