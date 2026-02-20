@@ -2,18 +2,22 @@
 
 These documents are related to research on the Humanities AI literacy framework.
 
-01_395_Papers.csv: Metadata for 395 papers, Seaech keyword is "ai" + "literacy" in Web of Science (WoS). Apr. 22, 2025.
 
-02_41_Papers.csv: Metadata for 41 papers selected by the authors
 
-03_Framework_elements.csv: AI literacy framework elements
+**HAIL_Publica_Open_EXCEL_Data_{YYMMDD}.xlsx: Experimental Analysis Results**
 
-04_ABCE_CRI_KW.csv: Criteria keywords extracted from ABCE papers
+01_395_Papers Sheet: Metadata for 395 papers, Seaech keyword is "ai" + "literacy" in Web of Science (WoS). Apr. 22, 2025.
 
-05_ABCE_Results.csv: Semantic similarity results between ABCE criteria keywords and extracted framework keywords
+02_41_Papers Sheet: Metadata for 41 papers selected by the authors
 
-06_UNESCO_CRI_KW.csv: Criteria keywords extracted from UNESCO papers
+03_Framework_elements Sheet: AI literacy framework elements
 
-07_UNESCO_Result.csv: Semantic similarity results between UNESCO criteria keywords and extracted framework keywords
+04_ABCE_CRI_KW Sheet: Criteria keywords extracted from ABCE papers
+
+05_ABCE_Results Sheet: Semantic similarity results between ABCE criteria keywords and extracted framework keywords
+
+06_UNESCO_CRI_KW Sheet: Criteria keywords extracted from UNESCO papers
+
+07_UNESCO_Result Sheet: Semantic similarity results between UNESCO criteria keywords and extracted framework keywords
 
 
