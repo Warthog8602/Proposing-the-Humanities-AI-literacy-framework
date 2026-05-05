@@ -4,20 +4,20 @@ These documents are related to research on the Humanities AI literacy framework.
 
 
 
-**HAIL_Publica_Open_EXCEL_Data.xlsx: Experimental Analysis Results**
+**Supplementary Materials: Experimental Analysis Results**
 
-395_Papers Sheet: Metadata of 395 papers, Seaech keyword is "ai" + "literacy" in Web of Science (WoS). Apr. 22, 2025.
+_S4.Screening Logs (Records)_ Sheet in the _S4.Screening Logs.xlsx_ file: Metadata of 395 papers, Seaech keyword is "ai" + "literacy" in Web of Science (WoS). Apr. 22, 2025.
 
-41_Papers Sheet: Metadata of 41 papers selected by the authors
+_S4.Screening Logs (Elements)_ Sheet in the _S4.Screening Logs.xlsx_ file: Metadata of 41 papers selected by the authors
 
-Framework_elements Sheet: AI literacy framework elements Keywords
+_S6.Framework_elements_ Sheet in the _S6.Extracted Dataset.xlsx_ file: AI literacy framework elements Keywords
 
-ABCE_CRI_KW Sheet: Criteria keywords extracted from ABCE papers
+_S6.ABCE_CRITERIA_KEYWORDS_ Sheet in the _S6.Extracted Dataset.xlsx_ file: Criteria keywords extracted from ABCE papers
 
-ABCE_Results Sheet: Semantic similarity results between ABCE criteria keywords and extracted framework keywords
+_S6.ABCE_Result_ Sheet in the _S6.Extracted Dataset.xlsx_ file: Semantic similarity results between ABCE criteria keywords and extracted framework keywords
 
-UNESCO_CRI_KW Sheet: Criteria keywords extracted from UNESCO papers
+_S6.UNESCO_CRITERIA_KEYWORDS_ Sheet in the _S6.Extracted Dataset.xlsx_ file: Criteria keywords extracted from UNESCO papers
 
-UNESCO_Result Sheet: Semantic similarity results between UNESCO criteria keywords and extracted framework keywords
+_S6.UNESCO_Result_ Sheet in the _S6.Extracted Dataset.xlsx_ file: Semantic similarity results between UNESCO criteria keywords and extracted framework keywords
 
-ABCE-UNESCO Sheet: Expert midified Keywords
+_S6.ABCE-UNESCO_ Sheet in the _S6.Extracted Dataset.xlsx_ file: Expert midified Keywords
